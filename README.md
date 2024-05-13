@@ -1,8 +1,8 @@
-# [Proyecto de página web para Illapel FM: Radio y TV]
+# Illapel FM. Radio website
 
-Aplicación frontend que incorpora un reproductor radial, diseñado para que el usuario pueda acceder a las señales de radio de la compañía en cualquier lugar y dispositivo.
+Landing page for Illapel FM, a radio station based in Illapel, Chile. Created with React and styled with Bootstrap.
 
-### Instalación
+### Installation
 
 1.- git clone repository.
 
